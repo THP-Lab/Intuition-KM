@@ -4,67 +4,85 @@
     "type": "split",
     "children": [
       {
-        "id": "f714c64b67c337b1",
-        "type": "tabs",
+        "id": "dae991a66888b181",
+        "type": "split",
         "children": [
           {
-            "id": "d7e6b2d02377af51",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-                "bFile": "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-                "aRef": ""
+            "id": "37093a7d9210c5bb",
+            "type": "tabs",
+            "dimension": 59.80810234541578,
+            "children": [
+              {
+                "id": "c0695946c7471428",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Intuition Components.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Intuition Components"
+                },
+                "group": "0b38fd7af08ebf6d"
               },
-              "icon": "diff",
-              "title": "Diff: Slideshow.svg"
-            }
+              {
+                "id": "df1e5acc59420931",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Intuition Components.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Intuition Components"
+                }
+              },
+              {
+                "id": "671baefa787c2548",
+                "type": "leaf",
+                "state": {
+                  "type": "split-diff-view",
+                  "state": {
+                    "aFile": ".obsidian/graph.json",
+                    "bFile": ".obsidian/graph.json",
+                    "aRef": ""
+                  },
+                  "icon": "diff",
+                  "title": "Diff: graph.json"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "3e2076dbd45d53d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sans titre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre"
-            }
-          },
-          {
-            "id": "459b2edd5192cbce",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "4d229975bac0e8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
+            "id": "681300d4aeb52754",
+            "type": "tabs",
+            "dimension": 40.191897654584224,
+            "children": [
+              {
+                "id": "e7bfae836a20ae7a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Excalidraw/Intuition Components.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rétrolien pour Intuition Components"
+                },
+                "group": "0b38fd7af08ebf6d"
+              }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -84,7 +102,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -223,16 +241,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d229975bac0e8c0",
+  "active": "671baefa787c2548",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Sans titre.md",
+    "Get Started with Intuition-KM.md",
+    "intuition-rs.md",
     "Excalidraw/Intuition Components.md",
+    "Sans titre 1",
+    "Sans titre",
+    "Sans titre.md",
+    "conflict-files-obsidian-git.md",
     "intution-ts.md",
     "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
-    "Get Started with Intuition-KM.md",
     "Excalidraw/Extension.md",
     "Excalidraw/TEST Paul.md",
     "README.md.md",
