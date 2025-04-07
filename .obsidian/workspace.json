@@ -23,12 +23,14 @@
             "id": "ee7382bb20f64b8d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-07 11.55.31.excalidraw"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -190,6 +192,7 @@
   },
   "active": "ee7382bb20f64b8d",
   "lastOpenFiles": [
+    "Get Started with Intuition-KM.md",
     "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
     "Excalidraw/Sans titre.md",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
