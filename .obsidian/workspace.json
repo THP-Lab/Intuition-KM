@@ -13,50 +13,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Intuition Components.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Intuition Components"
-            }
-          },
-          {
-            "id": "c50a5ba2d0289361",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Extension.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Extension"
-            }
-          },
-          {
-            "id": "a97c4d2fb89b3049",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Extension.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Extension"
-            }
-          },
-          {
-            "id": "63a654ff912ea532",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Excalidraw/Extension.md"
               },
               "icon": "excalidraw-icon",
               "title": "Extension"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63a654ff912ea532",
+  "active": "6bbfc435f938b781",
   "lastOpenFiles": [
-    "Hey ceci n'est pas un test!.md",
-    "Excalidraw/Extension.md",
     "Excalidraw/Intuition Components.md",
+    "Excalidraw/Extension.md",
+    "Hey ceci n'est pas un test!.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Intuition component.md",
     "Excalidraw"
