@@ -4,35 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f714c64b67c337b1",
+        "id": "32290e035e041d91",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e6b2d02377af51",
+            "id": "1844cff918da0a03",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-                "bFile": "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-                "aRef": ""
+                "file": "Excalidraw/Scripts/Downloaded/Shade Master.svg"
               },
-              "icon": "diff",
-              "title": "Diff: Slideshow.svg"
+              "icon": "lucide-image",
+              "title": "Shade Master"
             }
           },
           {
-            "id": "3e2076dbd45d53d4",
+            "id": "ee7382bb20f64b8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-07 11.55.31.excalidraw"
             }
           }
         ],
@@ -93,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5106964111328
+    "width": 300
   },
   "right": {
     "id": "6ecac0c3dadab095",
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Sans titre"
+              "title": "Rétroliens"
             }
           },
           {
@@ -128,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Sans titre"
+              "title": "Liens sortants"
             }
           },
           {
@@ -157,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sans titre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Sans titre"
+              "title": "Plan"
             }
           },
           {
@@ -181,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,23 +188,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e2076dbd45d53d4",
+  "active": "ee7382bb20f64b8d",
   "lastOpenFiles": [
-    "Excalidraw/TEST Paul.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Intuition Components.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
+    "Excalidraw/Sans titre.md",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Intuition Components.md",
+    "Excalidraw/TEST Paul.md",
+    "Hey ceci n'est pas un test!.md",
+    "Sans titre.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded/Shade Master.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Extension.md",
-    "Hey ceci n'est pas un test!.md",
-    "Sans titre.md",
-    "test/Sans titre.md",
-    "test",
-    "Excalidraw/Drawing 2025-04-07 11.22.14.excalidraw.md",
     "Excalidraw"
   ]
 }
