@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40a41585020385d0",
+        "id": "4d43cb8a544f21ae",
         "type": "tabs",
         "children": [
           {
-            "id": "f98e7b7e319a48d7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Intuition Components.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Intuition Components"
-            }
-          },
-          {
-            "id": "d73a2ac147be3347",
+            "id": "b6a52dcefbaa9887",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +21,7 @@
               "title": "Hey ceci n'est pas un test!"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d73a2ac147be3347",
+  "active": "b6a52dcefbaa9887",
   "lastOpenFiles": [
-    "Excalidraw/Intuition Components.md",
     "Hey ceci n'est pas un test!.md",
+    "Excalidraw/Drawing 2025-04-07 11.45.53.excalidraw.md",
+    "Excalidraw/Intuition Components.md",
     "Excalidraw"
   ]
 }
