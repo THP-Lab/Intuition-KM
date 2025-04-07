@@ -18,8 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "TEST Paul"
             }
+          },
+          {
+            "id": "ed8ce8de3069d22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,9 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "434aeb8b7bd2832a",
+  "active": "ed8ce8de3069d22f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Get Started with Intuition-KM.md",
+    "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
     "Excalidraw/TEST Paul.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Sans titre.md",
