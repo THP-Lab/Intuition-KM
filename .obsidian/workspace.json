@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40a41585020385d0",
+        "id": "f714c64b67c337b1",
         "type": "tabs",
         "children": [
           {
-            "id": "f98e7b7e319a48d7",
+            "id": "d7e6b2d02377af51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Excalidraw/Intuition Components.md",
+                "bFile": "Excalidraw/Intuition Components.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Intuition Components"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336.5106964111328
   },
   "right": {
     "id": "6ecac0c3dadab095",
@@ -173,6 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f98e7b7e319a48d7",
-  "lastOpenFiles": []
+  "active": "d7e6b2d02377af51",
+  "lastOpenFiles": [
+    "Excalidraw/Intuition Components.md",
+    "Excalidraw/Drawing 2025-04-07 11.22.14.excalidraw.md",
+    "Excalidraw"
+  ]
 }
