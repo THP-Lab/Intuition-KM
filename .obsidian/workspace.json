@@ -30,9 +30,33 @@
               "icon": "excalidraw-icon",
               "title": "Extension"
             }
+          },
+          {
+            "id": "a97c4d2fb89b3049",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Extension.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Extension"
+            }
+          },
+          {
+            "id": "63a654ff912ea532",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Extension.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Extension"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,11 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c50a5ba2d0289361",
+  "active": "63a654ff912ea532",
   "lastOpenFiles": [
-    "Excalidraw/Extension.md",
-    "Excalidraw/Extension.md",
+    "Hey ceci n'est pas un test!.md",
     "Excalidraw/Intuition Components.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Extension.md",
     "Excalidraw/Intuition component.md",
     "Excalidraw"
   ]
