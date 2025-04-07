@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b82a8a2ddc415233",
+        "id": "f714c64b67c337b1",
         "type": "tabs",
         "children": [
           {
-            "id": "6bbfc435f938b781",
+            "id": "d7e6b2d02377af51",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Extension.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Extension"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5106964111328
   },
   "right": {
     "id": "6ecac0c3dadab095",
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Sans titre"
             }
           },
           {
@@ -110,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Sans titre"
             }
           },
           {
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sans titre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Sans titre"
             }
           },
           {
@@ -161,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +180,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bbfc435f938b781",
+  "active": "d7e6b2d02377af51",
   "lastOpenFiles": [
     "Excalidraw/Intuition Components.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Shade Master.svg",
+    "Excalidraw/Scripts/Downloaded/Shade Master.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Excalidraw/Extension.md",
     "Hey ceci n'est pas un test!.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Intuition component.md",
+    "Sans titre.md",
+    "test/Sans titre.md",
+    "test",
+    "Excalidraw/Drawing 2025-04-07 11.22.14.excalidraw.md",
     "Excalidraw"
   ]
 }
