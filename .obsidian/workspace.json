@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Sans titre"
+            }
+          },
+          {
+            "id": "459b2edd5192cbce",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+                "bFile": "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Deconstruct selected elements into new drawing.svg"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,20 +209,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e2076dbd45d53d4",
+  "active": "434aeb8b7bd2832a",
   "lastOpenFiles": [
-    "Excalidraw/TEST Paul.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Intuition Components.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Get Started with Intuition-KM.md",
+    "Excalidraw/Extension.md",
+    "Excalidraw/TEST Paul.md",
+    "README.md.md",
+    "Sans titre.md",
+    "Hey ceci n'est pas un test!.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
     "Excalidraw/Scripts/Downloaded/Shade Master.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Extension.md",
-    "Hey ceci n'est pas un test!.md",
-    "Sans titre.md",
     "test/Sans titre.md",
     "test",
     "Excalidraw/Drawing 2025-04-07 11.22.14.excalidraw.md",

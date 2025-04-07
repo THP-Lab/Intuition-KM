@@ -119,7 +119,10 @@
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Shade Master.md"
+  ],
   "customPens": [
     {
       "type": "default",
