@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "4d43cb8a544f21ae",
+        "id": "e0b70cf82645c44d",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a52dcefbaa9887",
+            "id": "0a43692e9375a196",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Hey ceci n'est pas un test!.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Intuition Components.md"
               },
-              "icon": "lucide-file",
-              "title": "Hey ceci n'est pas un test!"
+              "icon": "excalidraw-icon",
+              "title": "Intuition Components"
+            }
+          },
+          {
+            "id": "eec33f30aa4b1bb8",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-excalidraw-plugin/data.json",
+                "bFile": ".obsidian/plugins/obsidian-excalidraw-plugin/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6a52dcefbaa9887",
+  "active": "eec33f30aa4b1bb8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Excalidraw/Intuition Components.md",
+    "Excalidraw/Extension.md",
     "Hey ceci n'est pas un test!.md",
     "Sans titre.md",
     "Get Started with Intuition-KM.md",
@@ -190,10 +206,8 @@
     "Excalidraw/Scripts/Downloaded/Shade Master.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Extension.md",
     "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
     "Excalidraw/Drawing 2025-04-07 11.45.53.excalidraw.md",
-    "Excalidraw/Intuition Components.md",
     "Excalidraw"
   ]
 }
