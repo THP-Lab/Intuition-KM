@@ -41,16 +41,31 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
-                "bFile": "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+                "aFile": ".obsidian/plugins/obsidian-excalidraw-plugin/data.json",
+                "bFile": ".obsidian/plugins/obsidian-excalidraw-plugin/data.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Deconstruct selected elements into new drawing.svg"
+              "title": "Diff: data.json"
+            }
+          },
+          {
+            "id": "86106fb9ea38de41",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
+                "bFile": "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Drawing 2025-04-07 11.55.31.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,8 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "434aeb8b7bd2832a",
+  "active": "86106fb9ea38de41",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
     "Excalidraw/Intuition Components.md",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
@@ -220,7 +237,6 @@
     "README.md.md",
     "Sans titre.md",
     "Hey ceci n'est pas un test!.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded/Shade Master.svg",
