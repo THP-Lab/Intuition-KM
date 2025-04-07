@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f714c64b67c337b1",
+        "id": "b82a8a2ddc415233",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e6b2d02377af51",
+            "id": "6bbfc435f938b781",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": "Excalidraw/Intuition Components.md",
-                "bFile": "Excalidraw/Intuition Components.md",
-                "aRef": ""
+                "file": "Excalidraw/Intuition Components.md"
               },
-              "icon": "diff",
-              "title": "Diff: Intuition Components"
+              "icon": "excalidraw-icon",
+              "title": "Intuition Components"
+            }
+          },
+          {
+            "id": "c50a5ba2d0289361",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Extension.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Extension"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5106964111328
+    "width": 300
   },
   "right": {
     "id": "6ecac0c3dadab095",
@@ -177,10 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7e6b2d02377af51",
+  "active": "c50a5ba2d0289361",
   "lastOpenFiles": [
+    "Excalidraw/Extension.md",
+    "Excalidraw/Extension.md",
     "Excalidraw/Intuition Components.md",
-    "Excalidraw/Drawing 2025-04-07 11.22.14.excalidraw.md",
+    "Excalidraw/Intuition component.md",
     "Excalidraw"
   ]
 }
