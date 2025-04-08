@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               },
               "icon": "excalidraw-icon",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ]
@@ -177,11 +177,11 @@
   },
   "active": "32e0345166e75ce1",
   "lastOpenFiles": [
+    "Contribute.md",
+    "README.md",
     "Excalidraw/Intuition Overview.md",
-    "README.md.md",
     "Excalidraw/Browser Extension.md",
     "Excalidraw/src/Intuition Components/intuition-rs.md",
-    "Contribute.md.md",
     "Excalidraw/src/Intuition Components/browser-extension.md",
     "Sans titre.md",
     "Excalidraw/src/Intuition Components/metamask-snap.md",
