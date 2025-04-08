@@ -1,5 +1,3 @@
-[[Shade Master]]
-
 /*
 ![](https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-deconstruct.jpg)
 
