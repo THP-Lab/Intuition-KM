@@ -11,14 +11,12 @@
             "id": "32e0345166e75ce1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TODOS.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/src/images/Linea.png"
               },
-              "icon": "lucide-file",
-              "title": "TODOS"
+              "icon": "lucide-image",
+              "title": "Linea"
             }
           }
         ]
@@ -177,14 +175,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32e0345166e75ce1",
+  "active": "0616426b480826f0",
   "lastOpenFiles": [
+    "Excalidraw/src/images/Base.png",
+    "Excalidraw/src/images/Intuition.png",
     "Excalidraw/Intuition Overview.md",
+    "Excalidraw/src/Intuition Components/intuition-rs.md",
+    "Excalidraw/src/Intuition Components/intution-contracts.md",
+    "Excalidraw/src/images/Linea.png",
+    "Excalidraw/src/Intuition Components/intution-ts.md",
+    "Excalidraw/Browser Extension.md",
     "TODOS.md",
     "README.md",
     "Contribute.md",
-    "Excalidraw/Browser Extension.md",
-    "Excalidraw/src/Intuition Components/intuition-rs.md",
     "Excalidraw/src/Intuition Components/browser-extension.md",
     "Excalidraw/src/Intuition Components/metamask-snap.md",
     "Excalidraw/src",
@@ -203,7 +206,6 @@
     "Excalidraw/src/Intuition Components",
     "Hey ceci n'est pas un test!.md",
     "Excalidraw/TEST Paul.md",
-    "Excalidraw/src/Intuition Components/intution-ts.md",
     "Sans titre 1",
     "conflict-files-obsidian-git.md",
     "Excalidraw/src/Scripts/Downloaded/Slideshow.svg",
