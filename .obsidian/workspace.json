@@ -11,12 +11,14 @@
             "id": "32e0345166e75ce1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "README.md"
+                "file": "TODOS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "README"
+              "icon": "lucide-file",
+              "title": "TODOS"
             }
           }
         ]
@@ -177,13 +179,13 @@
   },
   "active": "32e0345166e75ce1",
   "lastOpenFiles": [
-    "Contribute.md",
-    "README.md",
     "Excalidraw/Intuition Overview.md",
+    "TODOS.md",
+    "README.md",
+    "Contribute.md",
     "Excalidraw/Browser Extension.md",
     "Excalidraw/src/Intuition Components/intuition-rs.md",
     "Excalidraw/src/Intuition Components/browser-extension.md",
-    "Sans titre.md",
     "Excalidraw/src/Intuition Components/metamask-snap.md",
     "Excalidraw/src",
     "Excalidraw/src/Intuition Components/portal.md",
