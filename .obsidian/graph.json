@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "collapse-filter": false,
+=======
+  "collapse-filter": true,
+>>>>>>> origin/main
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -17,6 +21,11 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 1.2409227038454638,
   "close": true
+=======
+  "scale": 1.4019828916711337,
+  "close": false
+>>>>>>> origin/main
 }

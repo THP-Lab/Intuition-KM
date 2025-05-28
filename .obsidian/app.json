@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
   "showInlineTitle": false,
   "newLinkFormat": "shortest"
+=======
+  "alwaysUpdateLinks": true
+>>>>>>> origin/main
 }

@@ -52,9 +52,21 @@
               "icon": "excalidraw-icon",
               "title": "Debate"
             }
+          },
+          {
+            "id": "c1db3d72950eb919",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Contribute.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Contribute"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intuition/Debate.md",
+                "file": "Contribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Debate"
+              "title": "Outgoing links from Contribute"
             }
           },
           {
@@ -174,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intuition/Debate.md",
+                "file": "Contribute.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Debate"
+              "title": "Outline of Contribute"
             }
           },
           {
@@ -212,48 +224,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7e21092b0396cd7",
+  "active": "c1db3d72950eb919",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Contribute.md",
+    "TODOS.md",
+    "README.md",
+    "Intuition/Debate.md",
+    "Excalidraw/src/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/src/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/src/Scripts/Downloaded/Shade Master.svg",
+    "Excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/src/Scripts/Downloaded/Shade Master.md",
+    "Excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/src/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/src/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/src/Scripts/Downloaded",
+    "Excalidraw/src/Intuition Components/upload.md",
+    "Excalidraw/src/Intuition Components/portal.md",
+    "Excalidraw/src/Intuition Components/metamask-snap.md",
+    "Excalidraw/src/Intuition Components/intution-ts.md",
+    "Excalidraw/src/Intuition Components/intution-contracts.md",
+    "Excalidraw/src/Intuition Components/intuition-rs.md",
+    "Excalidraw/src/images/portal.png",
+    "Excalidraw/src/Intuition Components/browser-extension.md",
+    "Excalidraw/src/images/metamask-snap.png",
+    "Excalidraw/src/images/Linea.png",
+    "Excalidraw/src/images/Base.png",
+    "Excalidraw/src/images/Intuition.png",
+    "Excalidraw/src/Scripts",
+    "Excalidraw/src/Intuition Components",
+    "Excalidraw/src/images",
+    "Excalidraw/src",
+    "Excalidraw/Intuition Overview.md",
+    "Excalidraw/Browser Extension.md",
+    "Excalidraw",
     "Intuition/Historical GPS.md",
     "HistoricalGPS.svg",
     "Intuition/Ideas.md",
-    "intuitionmodule.svg",
-    "intuitionmigrator.svg",
-    "Intuition/Debate.md",
-    "intuitionmodernisation.svg",
-    "intuitionsingularity.svg",
     "Intuition/Intuition.md",
     "Intuition/Commerce.md",
     "Intuition/Learning.md",
-    "intuition2.svg",
     "Intuition",
     "Intuition/Work.md",
-    "intuition6.svg",
     "Intuition/Social.md",
-    "intuition1.svg",
-    "intuition5.svg",
-    "intuition4.svg",
     "Excalidraw/Untitled.md",
-    "Intuition/AI.md",
     "Intuition.canvas",
     "Untitled.canvas",
-    "Intuition.md",
     "Intuition",
-    "Excalidraw/Extension.md",
-    "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
-    "Sans titre.md",
-    "Hey ceci n'est pas un test!.md",
-    "Get Started with Intuition-KM.md",
-    "Untitled.md",
-    "Excalidraw/Scripts/Downloaded/Shade Master.md",
-    "Excalidraw/Intuition Components.md",
-    "Excalidraw/TEST Paul.md",
-    "2025-05-28.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2025-04-07 11.45.53.excalidraw.md",
-    "Intuition"
+    "Excalidraw/Scripts"
   ]
 }
