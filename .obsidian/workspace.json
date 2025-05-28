@@ -8,34 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a43692e9375a196",
+            "id": "82b1e1916973e74f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b76f7eecc5e605a5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Intuition Components.md"
+                "file": "Intuition/Debate.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Intuition Components"
+              "title": "Debate"
             }
           },
           {
-            "id": "eec33f30aa4b1bb8",
+            "id": "7d2e5a04f53c0cc4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-excalidraw-plugin/data.json",
-                "bFile": ".obsidian/plugins/obsidian-excalidraw-plugin/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Intuition/Ideas.md"
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "excalidraw-icon",
+              "title": "Ideas"
+            }
+          },
+          {
+            "id": "e7e21092b0396cd7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Intuition/Debate.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Debate"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,11 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Intuition/Debate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Outgoing links from Debate"
             }
           },
           {
@@ -145,7 +165,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           },
           {
@@ -154,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Intuition/Debate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Outline of Debate"
             }
           },
           {
@@ -191,23 +212,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eec33f30aa4b1bb8",
+  "active": "e7e21092b0396cd7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Intuition Components.md",
+    "Intuition/Historical GPS.md",
+    "HistoricalGPS.svg",
+    "Intuition/Ideas.md",
+    "intuitionmodule.svg",
+    "intuitionmigrator.svg",
+    "Intuition/Debate.md",
+    "intuitionmodernisation.svg",
+    "intuitionsingularity.svg",
+    "Intuition/Intuition.md",
+    "Intuition/Commerce.md",
+    "Intuition/Learning.md",
+    "intuition2.svg",
+    "Intuition",
+    "Intuition/Work.md",
+    "intuition6.svg",
+    "Intuition/Social.md",
+    "intuition1.svg",
+    "intuition5.svg",
+    "intuition4.svg",
+    "Excalidraw/Untitled.md",
+    "Intuition/AI.md",
+    "Intuition.canvas",
+    "Untitled.canvas",
+    "Intuition.md",
+    "Intuition",
     "Excalidraw/Extension.md",
-    "Hey ceci n'est pas un test!.md",
+    "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
     "Sans titre.md",
+    "Hey ceci n'est pas un test!.md",
     "Get Started with Intuition-KM.md",
-    "Excalidraw/TEST Paul.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw/Scripts/Downloaded/Shade Master.svg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Untitled.md",
     "Excalidraw/Scripts/Downloaded/Shade Master.md",
+    "Excalidraw/Intuition Components.md",
+    "Excalidraw/TEST Paul.md",
+    "2025-05-28.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
     "Excalidraw/Drawing 2025-04-07 11.45.53.excalidraw.md",
-    "Excalidraw"
+    "Intuition"
   ]
 }
