@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b70cf82645c44d",
+        "id": "5595fdc3407985e1",
         "type": "tabs",
         "children": [
           {
-            "id": "82b1e1916973e74f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b76f7eecc5e605a5",
+            "id": "d2b9a363da7f2621",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Intuition/Debate.md"
+                "file": "Intuition/AI.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Debate"
-            }
-          },
-          {
-            "id": "7d2e5a04f53c0cc4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Intuition/Ideas.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Ideas"
-            }
-          },
-          {
-            "id": "e7e21092b0396cd7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Intuition/Debate.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Debate"
-            }
-          },
-          {
-            "id": "c1db3d72950eb919",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Contribute.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Contribute"
+              "title": "AI"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +59,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -157,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contribute.md",
+                "file": "Intuition/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Contribute"
+              "title": "Outgoing links from AI"
             }
           },
           {
@@ -186,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contribute.md",
+                "file": "Intuition/AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Contribute"
+              "title": "Outline of AI"
             }
           },
           {
@@ -224,53 +177,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1db3d72950eb919",
+  "active": "d2b9a363da7f2621",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Contribute.md",
-    "TODOS.md",
-    "README.md",
-    "Intuition/Debate.md",
-    "Excalidraw/src/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw/src/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/src/Scripts/Downloaded/Shade Master.svg",
-    "Excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
-    "Excalidraw/src/Scripts/Downloaded/Shade Master.md",
-    "Excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
-    "Excalidraw/src/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/src/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/src/Scripts/Downloaded",
-    "Excalidraw/src/Intuition Components/upload.md",
-    "Excalidraw/src/Intuition Components/portal.md",
-    "Excalidraw/src/Intuition Components/metamask-snap.md",
-    "Excalidraw/src/Intuition Components/intution-ts.md",
-    "Excalidraw/src/Intuition Components/intution-contracts.md",
-    "Excalidraw/src/Intuition Components/intuition-rs.md",
-    "Excalidraw/src/images/portal.png",
-    "Excalidraw/src/Intuition Components/browser-extension.md",
-    "Excalidraw/src/images/metamask-snap.png",
-    "Excalidraw/src/images/Linea.png",
-    "Excalidraw/src/images/Base.png",
-    "Excalidraw/src/images/Intuition.png",
-    "Excalidraw/src/Scripts",
-    "Excalidraw/src/Intuition Components",
-    "Excalidraw/src/images",
-    "Excalidraw/src",
-    "Excalidraw/Intuition Overview.md",
-    "Excalidraw/Browser Extension.md",
-    "Excalidraw",
-    "Intuition/Historical GPS.md",
-    "HistoricalGPS.svg",
-    "Intuition/Ideas.md",
-    "Intuition/Intuition.md",
-    "Intuition/Commerce.md",
-    "Intuition/Learning.md",
-    "Intuition",
+    "excalidraw/src/images/intuition3.svg",
+    "excalidraw/src/images/intuition4.svg",
+    "excalidraw/src/images/intuition2.svg",
+    "excalidraw/src/images/Intuition.png",
+    "excalidraw/src/images/HistoricalGPS.svg",
     "Intuition/Work.md",
     "Intuition/Social.md",
-    "Excalidraw/Untitled.md",
-    "Intuition.canvas",
+    "Intuition/presentation.md",
+    "Intuition/Learning.md",
+    "Intuition/Ideas.md",
+    "Intuition/Historical GPS.md",
+    "Intuition/Debate.md",
+    "Intuition/Commerce.md",
+    "Intuition/AI.md",
+    "Untitled 1.canvas",
+    "Contribute.md",
     "Untitled.canvas",
+    "2025-05-28.md",
+    "excalidraw/src/Intuition Components/upload.md",
+    "excalidraw/src/Intuition Components/portal.md",
+    "excalidraw/src/Intuition Components/metamask-snap.md",
+    "excalidraw/src/Intuition Components/intution-ts.md",
+    "excalidraw/src/Intuition Components/intution-contracts.md",
+    "excalidraw/src/Intuition Components/intuition-rs.md",
+    "excalidraw/src/Intuition Components/browser-extension.md",
+    "excalidraw/Intuition Overview.md",
+    "excalidraw/Browser Extension.md",
+    "excalidraw/src/images/intuitionmodernisation.svg",
+    "excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "conflict-files-obsidian-git.md",
+    "TODOS.md",
+    "README.md",
+    "excalidraw/src/Scripts/Downloaded/Slideshow.svg",
+    "excalidraw/src/Scripts/Downloaded/Slideshow.md",
+    "excalidraw/src/Scripts/Downloaded/Shade Master.svg",
+    "excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "excalidraw/src/Scripts/Downloaded/Boolean Operations.svg",
+    "excalidraw/src/Scripts/Downloaded",
+    "excalidraw/src/images/portal.png",
+    "excalidraw/src/Scripts",
+    "excalidraw/src/Intuition Components",
+    "excalidraw/src/images",
+    "excalidraw/src",
+    "excalidraw",
+    "Intuition",
+    "Intuition.canvas",
     "Intuition",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts"
