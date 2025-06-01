@@ -4,139 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "681300d4aeb52754",
+        "id": "5595fdc3407985e1",
         "type": "tabs",
         "children": [
           {
-            "id": "32e0345166e75ce1",
+            "id": "d2b9a363da7f2621",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Intuition Overview.md"
+                "file": "Intuition/AI.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Intuition Overview"
-            }
-          },
-          {
-            "id": "52ec1a22004dfa29",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Excalidraw/Intuition Overview.md",
-                "bFile": "Excalidraw/Intuition Overview.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Intuition Overview"
-            }
-          },
-          {
-            "id": "bc3a02c354ecfc56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Browser Extension.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Browser Extension"
-            }
-          },
-          {
-            "id": "b6483c5c3199fbf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sans titre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre"
-            }
-          },
-          {
-            "id": "b9a806e82abd864f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sans titre 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 1"
-            }
-          },
-          {
-            "id": "84c7c55bfef57a07",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Intuition Overview.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Intuition Overview"
-            }
-          },
-          {
-            "id": "1728a735e78f3800",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Intuition Overview.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Intuition Overview"
-            }
-          },
-          {
-            "id": "2855f930bf6e338a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Intuition Overview.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Intuition Overview"
-            }
-          },
-          {
-            "id": "9a3784888385ed61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sans titre 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 3"
-            }
-          },
-          {
-            "id": "d252a2c9cd6e8de3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-05-27 14.52.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-27 14.52.43.excalidraw"
+              "title": "AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +39,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -176,7 +59,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -194,6 +77,7 @@
     ],
     "direction": "horizontal",
     "width": 272.5106964111328
+    "width": 300
   },
   "right": {
     "id": "6ecac0c3dadab095",
@@ -227,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Intuition/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Outgoing links from AI"
             }
           },
           {
@@ -246,7 +131,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           },
           {
@@ -255,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Intuition/AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Outline of AI"
             }
           },
           {
@@ -278,64 +164,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52ec1a22004dfa29",
+  "active": "d2b9a363da7f2621",
   "lastOpenFiles": [
+    "excalidraw/src/images/intuition3.svg",
+    "excalidraw/src/images/intuition4.svg",
+    "excalidraw/src/images/intuition2.svg",
+    "excalidraw/src/images/Intuition.png",
+    "excalidraw/src/images/HistoricalGPS.svg",
+    "Intuition/Work.md",
+    "Intuition/Social.md",
+    "Intuition/presentation.md",
+    "Intuition/Learning.md",
+    "Intuition/Ideas.md",
+    "Intuition/Historical GPS.md",
+    "Intuition/Debate.md",
+    "Intuition/Commerce.md",
+    "Intuition/AI.md",
+    "Untitled 1.canvas",
     "Contribute.md",
-    "Excalidraw/Intuition Overview.md",
-    "Excalidraw/Browser Extension.md",
-    "Sans titre.md",
-    "Sans titre 1.md",
-    "Drawing 2025-05-27 14.52.43.excalidraw.md",
-    "Sans titre 3.md",
-    "Excalidraw/src/Intuition Components/intution-ts.md",
-    "Excalidraw/src/Intuition Components/metamask-snap.md",
-    "Excalidraw/src/Intuition Components/portal.md",
-    "Excalidraw/src/Intuition Components/upload.md",
-    "Excalidraw/src/Intuition Components/intution-contracts.md",
-    "Excalidraw/src/Intuition Components/intuition-rs.md",
-    "Excalidraw/src/Intuition Components/browser-extension.md",
-    "Excalidraw/src/images/portal.png",
-    "Excalidraw/src/images/metamask-snap.png",
-    "Excalidraw/src/images/Linea.png",
-    "Excalidraw/src/images/Intuition.png",
-    "Excalidraw/src/images/Base.png",
-    "Sans titre 2.md",
+    "Untitled.canvas",
+    "2025-05-28.md",
+    "excalidraw/src/Intuition Components/upload.md",
+    "excalidraw/src/Intuition Components/portal.md",
+    "excalidraw/src/Intuition Components/metamask-snap.md",
+    "excalidraw/src/Intuition Components/intution-ts.md",
+    "excalidraw/src/Intuition Components/intution-contracts.md",
+    "excalidraw/src/Intuition Components/intuition-rs.md",
+    "excalidraw/src/Intuition Components/browser-extension.md",
+    "excalidraw/Intuition Overview.md",
+    "excalidraw/Browser Extension.md",
+    "excalidraw/src/images/intuitionmodernisation.svg",
+    "excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "conflict-files-obsidian-git.md",
     "TODOS.md",
     "README.md",
-    "Excalidraw/src",
-    "Excalidraw/test.md",
-    "Excalidraw/Extension.md",
-    "Excalidraw/Drawing 2025-04-07 11.55.31.excalidraw.md",
-    "Excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
-    "Excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
-    "Excalidraw/src/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/src/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/src/images",
-    "Excalidraw/src/Intuition Components",
-    "Hey ceci n'est pas un test!.md",
-    "Excalidraw/TEST Paul.md",
-    "Sans titre 1",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/src/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw/src/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/src/Scripts/Downloaded/Shade Master.svg",
-    "Excalidraw/src/Scripts/Downloaded",
-    "Excalidraw/src/Scripts",
-    "test",
-    "Excalidraw"
+    "excalidraw/src/Scripts/Downloaded/Slideshow.svg",
+    "excalidraw/src/Scripts/Downloaded/Slideshow.md",
+    "excalidraw/src/Scripts/Downloaded/Shade Master.svg",
+    "excalidraw/src/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "excalidraw/src/Scripts/Downloaded/Boolean Operations.svg",
+    "excalidraw/src/Scripts/Downloaded",
+    "excalidraw/src/images/portal.png",
+    "excalidraw/src/Scripts",
+    "excalidraw/src/Intuition Components",
+    "excalidraw/src/images",
+    "excalidraw/src",
+    "excalidraw",
+    "Intuition",
+    "Intuition.canvas",
+    "Intuition",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts"
   ]
 }
