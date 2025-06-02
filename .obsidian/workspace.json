@@ -11,12 +11,12 @@
             "id": "10606d3a4c8fd319",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Intuition Overview.md"
+                "file": "Excalidraw/src/pdf/pitch-deck.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Intuition Overview"
+              "icon": "lucide-file-text",
+              "title": "pitch-deck"
             }
           }
         ]
@@ -138,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/src/pdf/pitch-deck.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de pitch-deck"
             }
           },
           {
@@ -177,27 +178,32 @@
   },
   "active": "10606d3a4c8fd319",
   "lastOpenFiles": [
-    "Excalidraw/Intuition Overview.md",
-    "TODOS.md",
+    "Excalidraw/TODOS.md",
+    "Excalidraw/src/pdf/pitch-deck.pdf",
+    "Excalidraw/src/pdf",
+    "Intuition/README.md",
+    "Intuition/Work.md",
+    "Intuition/Contribute.md",
+    "Intuition/Historical GPS.md",
+    "Intuition/Ideas.md",
+    "Intuition/presentation.md",
+    "Intuition/Debate.md",
+    "Intuition/Learning.md",
+    "Excalidraw/src/images/metamask-snap.png",
+    "Excalidraw/src/images/overview-background.png",
+    "Excalidraw/src/Intuition Components/browser-extension.md",
+    "Drawing 2025-05-27 14.52.43.excalidraw.md",
+    "Home page.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "README.md",
     "Sans titre 3.md",
     "Sans titre.md",
-    "Drawing 2025-05-27 14.52.43.excalidraw.md",
-    "Intuition/Work.md",
     "2025-05-28.md",
     "Intuition/Social.md",
-    "Intuition/presentation.md",
-    "Intuition/Learning.md",
-    "Intuition/Ideas.md",
-    "Intuition/Historical GPS.md",
-    "Intuition/Debate.md",
     "Intuition/Commerce.md",
     "Intuition/AI.md",
     "Sans titre 2.md",
     "Sans titre 1.md",
-    "Contribute.md",
     "Intuition",
     "conflict-files-obsidian-git.md",
     "intuitionsingularity.svg",
@@ -208,20 +214,16 @@
     "intuition5.svg",
     "intuition4.svg",
     "intuition3.svg",
-    "intuition2.svg",
-    "intuition1.svg",
     "Intuition/Intuition.md",
     "Excalidraw/Browser Extension.md",
     "Excalidraw/src/Intuition Components/intution-ts.md",
     "Excalidraw/src/Intuition Components/metamask-snap.md",
-    "Excalidraw/src/Intuition Components/portal.md",
     "Excalidraw/src",
     "Excalidraw/src/images",
     "Excalidraw/src/Intuition Components",
     "Sans titre 1",
     "Excalidraw/src/Scripts/Downloaded",
     "Excalidraw/src/Scripts",
-    "test",
-    "Excalidraw"
+    "test"
   ]
 }
